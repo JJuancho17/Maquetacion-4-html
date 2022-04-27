@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    color: #fff;
+}
+
+#container {
+    width: 1000px;
+    height:   10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    height: 150px;
+    background: rgb(1, 68, 168);
+}
+header h1 {
+    font-size: 50px;
+    text-align: center;
+    line-height: 150px;
+}
+nav {
+    background: rgb(2, 236, 80);
+    height: 60px;
+}
+
+nav h2 {
+    font-size: 30px;
+    text-align: center;
+    line-height: 70px;
+    color: black;
+}
+
+#contenido {
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background: pink;
+    font-weight: bold;
+    float: left;
+
+}
+
+#contenido h2 {
+    font-size: 30px;
+    text-align: center;
+    line-height: 500px;
+    color: black;
+}
+#aside1{
+    color: black;
+    text-align: center;
+    width: 250px;
+    height: 500px;
+    background-color: red;
+    float: left;
+    
+}
+#aside2 {
+    color: black;
+    text-align: center;
+    width: 250px;
+    height: 500px;
+    background-color:rgb(225, 236, 160);
+    float:right;
+}
+footer {
+    background: rgb(1, 68, 168);
+    clear: both;
+}
+
+footer h2 {
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+
+}
